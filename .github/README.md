@@ -1,18 +1,9 @@
-<!--
 ---
-title: LS's Script Readme
-
-html:
-  embed_local_images: true
-  embed_svg: true
-  offline: false
+title: LS Script's Readme
 
 export_on_save:
-  html: false
-
-print_background: true
+  html: true
 ---
--->
 
 <!DOCTYPE html>
 <html lang="en">
