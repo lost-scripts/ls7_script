@@ -1,3 +1,4 @@
+<!--
 ---
 title: LS's Script Readme
 
@@ -11,7 +12,7 @@ export_on_save:
 
 print_background: true
 ---
-
+-->
 
 <!DOCTYPE html>
 <html lang="en">
