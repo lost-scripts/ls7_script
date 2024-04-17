@@ -1,5 +1,8 @@
 ---
-title: LS Script's Readme
+title: "LS Script's Readme"
+
+html:
+  embed_local_images: true
 
 export_on_save:
   html: true
