@@ -1,3 +1,17 @@
+---
+html:
+  embed_local_images: true
+  embed_svg: true
+  offline: false
+  toc: 
+
+export_on_save:
+  html: false
+
+print_background: true
+---
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
