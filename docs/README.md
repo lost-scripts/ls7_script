@@ -23,6 +23,7 @@
 </head>
 <body bgcolor="#272822" text="#ffffff" link="#3794FF" alink="#FFFF00" vlink="#9437FF" style="background-color:#272822; margin:20px 40px 20px 40px; font-family: 'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif,'Segoe UI Emoji'">
 	<!--<hr color="yellow" size="10px" />-->
+<<<<<<< HEAD
 	<h1 align="center" style="color: yellow; font-family: 'Josefin Sans', sans-serif;">Lost Scripts Project</h1>
 	<p align="center" title="Script's Icon"><img src="./.github/README_logo.png" alt="📄&thinsp;" height="144" style="font-size: 104px; image-rendering: pixelated; filter: invert(1) sepia(1) hue-rotate(160deg) invert(1) hue-rotate(60deg) brightness(10000%) saturate(100%) drop-shadow(6px 4px 8px black);"></p> <!--onerror="this.onerror=null; this.src='./.github/README_logo_alt.png'"-->
 	<!--<p align="center" title="Script's Icon"><img src="./.github/README_icon.png" alt="📄&thinsp;" height="144" style="font-size: 104px; image-rendering: pixelated; filter: drop-shadow(6px 4px 8px black);"></img></p>--> <!--onerror="this.onerror=null; this.src='./.github/README_logo_alt.png'"-->
@@ -30,6 +31,19 @@
 	<p>Provides all the necessary shared files and helpers for the well functioning of the Lost Scripts® project.</p>
 	<h2 align="center" style="color: yellow; font-family: 'Josefin Sans', sans-serif;">Overview</h2>
 	<p align="center" title="Overview Item 1"><img src="./.github/README_overview_001.png" alt="Overview Item 1"></p>
+=======
+<<<<<<<< HEAD:README.md
+	<h1 align="center" style="color: yellow; font-family: 'Josefin Sans', sans-serif;">Lost Script Test</h1>
+========
+	<h1 align="center" style="color: yellow; font-family: 'Josefin Sans', sans-serif;">Lost Scripts Project</h1>
+>>>>>>>> 250e5ccd777d48944bbe1e16f0b3f3a824e42e1d:docs/README.md
+	<p align="center" title="Script's Icon"><img src="./docs/README_logo.png" alt="📄&thinsp;" height="144" style="font-size: 104px; image-rendering: pixelated; filter: invert(1) sepia(1) hue-rotate(160deg) invert(1) hue-rotate(60deg) brightness(10000%) saturate(100%) drop-shadow(6px 4px 8px black);"></p> <!--onerror="this.onerror=null; this.src='./docs/README_logo_alt.png'"-->
+	<!--<p align="center" title="Script's Icon"><img src="./docs/README_icon.png" alt="📄&thinsp;" height="144" style="font-size: 104px; image-rendering: pixelated; filter: drop-shadow(6px 4px 8px black);"></img></p>--> <!--onerror="this.onerror=null; this.src='./docs/README_logo_alt.png'"-->
+	<h2 align="center" style="color: yellow; font-family: 'Josefin Sans', sans-serif;">Description</h2>
+	<p>Provides all the necessary shared files and helpers for the well functioning of the Lost Scripts® project.</p>
+	<h2 align="center" style="color: yellow; font-family: 'Josefin Sans', sans-serif;">Overview</h2>
+	<p align="center" title="Overview Item 1"><img src="./docs/README_overview_001.png" alt="Overview Item 1"></p>
+>>>>>>> 250e5ccd777d48944bbe1e16f0b3f3a824e42e1d
 	<!--<video width="50%" controls src="./README_files/overview_001.mp4" type="video/mp4">Your browser does not support the video tag.</video><center>-->
 	<h2 align="center" style="color: yellow; font-family: 'Josefin Sans', sans-serif;">Contents & Features</h2>
 	<table align="center" style="width: 100%; text-align: center; border-spacing: 8px; border-collapse: colapse;">
