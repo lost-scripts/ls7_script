@@ -1,4 +1,4 @@
-#README.md merge = ours
+README.md merge = ours
 
 .gitattributes export-ignore
 .gitignore export-ignore
