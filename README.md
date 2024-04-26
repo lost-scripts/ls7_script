@@ -1,1 +1,1 @@
-./ScriptResources/ls/README.md
+./ScriptResources/ls/docs/README.md
