@@ -1,3 +1,5 @@
+.gitattributes merge=ours
+.gitignore merge=ours
 README.md merge=ours
 
 .gitattributes export-ignore
