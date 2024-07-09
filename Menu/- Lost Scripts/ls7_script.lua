@@ -4,7 +4,7 @@
 
 ScriptName = "LS7_Script"
 ScriptBirth = "20240414-0449"
-ScriptBuild = "20240709-1955"
+ScriptBuild = "20240709-1959"
 
 -- **************************************************
 -- General information about this script
@@ -12,4 +12,4 @@ ScriptBuild = "20240709-1955"
 
 LS7_Script = {}
 
--- More code... 15
+-- More code... 16
