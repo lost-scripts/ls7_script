@@ -4,7 +4,7 @@
 
 ScriptName = "LS_ShapesWindow"
 ScriptBirth = "20220918-0248"
-ScriptBuild = "20240710-1756"
+ScriptBuild = "20240710-1817"
 
 -- **************************************************
 -- General information about this script
@@ -4631,4 +4631,4 @@ function LS_ShapesWindow:License(years, name, company) --(char, char, char) char
 	]]
 	--                                                                                                                                                      
 	return string.format(license, tostring(years), name, company, name)
-end --print(LS_ShapesWindow:License())
+end --print(LS_ShapesWindow:License()) 
