@@ -29,7 +29,7 @@ function LS_Webpage:Creator()
 end
 
 function LS_Webpage:UILabel()
-	return "Lost Scripts Webpage..." --"- Tag Scripts Webpage..." -- - Tags Webpage... --🌐 
+	return "Lost Scripts Webpage..." --"- Tag Scripts Webpage..." -- - Tags Webpage... --🌐
 end
 
 -- **************************************************
